@@ -1,5 +1,3 @@
-Hi!
-
-  I’m Nate (@natemollica-nm)
+Nate Mollica 😁
 
 Contact Info: nathanmollica@gmail.com
