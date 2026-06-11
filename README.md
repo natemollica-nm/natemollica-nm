@@ -41,10 +41,4 @@ Site Reliability / Platform Engineer focused on **reliable, observable, self-ser
 **Platforms:** Kubernetes, OpenShift, Consul, Nomad  
 **Observability:** Prometheus, Grafana, Datadog
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmollica&show_icons=true&count_private=true&hide=issues&theme=transparent" />
-</p>
-
 <!-- ✂︎ END OF PROFILE README ✂︎ -->
